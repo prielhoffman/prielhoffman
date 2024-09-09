@@ -2,3 +2,8 @@
 **Communication Systems Engineering Graduate**
 
 Graduated with a bachelor's degree in communication systems engineering at Ben-Gurion University, with a strong foundation in programming, communication protocols, algorithms and signal processing. At Elta Systems I conducted a final project which is a kind of practical research that compared the performance of receiver types, using MATLAB simulations, independent research and detailed documentation to draw influential conclusions. Proficient in MATLAB, C, C++ and Python, I am keen to apply the knowledge I have gained during my degree and work experience to drive innovation and make a meaningful impact.
+
+### Languages and Tools:
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
