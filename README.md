@@ -1,6 +1,6 @@
 ## Priel Hoffman ☺️
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Priel Hoffman. I am Communication systems engineer" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Priel Hoffman" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
