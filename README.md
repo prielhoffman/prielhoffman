@@ -2,7 +2,9 @@
 
 **`Communication Systems Engineer`**
 
-Graduated with a bachelor's degree in communication systems engineering at Ben-Gurion University, with a strong foundation in programming, communication protocols, algorithms and signal processing. At Elta Systems I conducted a final project which is a kind of practical research that compared the performance of receiver types, using MATLAB simulations, independent research and detailed documentation to draw influential conclusions. Proficient in MATLAB, C, C++ and Python, I am keen to apply the knowledge I have gained during my degree and work experience to drive innovation and make a meaningful impact.
+My name is Priel, and I'm currently seeking an entry-level role as a communication systems engineer or software engineer.
+
+I graduated from Ben Gurion University with a major in Communication Systems Engineering. While at Ben Gurion University, I established and grew my passion for communication protocols, programming, and algorithms. Some of the courses that fascinated me the most were Computer Networks, where I first learned to understand and analyze communication protocols and explored their practical applications in laboratory classes. Another course that captured my interest was Wireless Communication, where I studied how wireless and satellite communication work, delving into the Physical layer, MAC protocols, and recent standards, both in lectures and through hands-on laboratory experience. Additionally, I enjoyed Computer Science and Systems Programming, where I developed my skills in C/C++ and Python programming. I was also drawn to courses related to algorithms, where I enjoyed the challenge of finding effective solutions to complex problems.
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
