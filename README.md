@@ -7,6 +7,7 @@ Hi, I’m Priel, a Communication Systems Engineering graduate from Ben-Gurion Un
 Key skills:
 - Software Development: Proficient in Python, C, C++.
 - Parallel Computing: Experienced with OpenMP, MPI, and Monte Carlo simulations for high-performance applications.
+- Machine Learning: Knowledgeable in machine learning techniques, including model training, optimization, and applying ML algorithms for predictive analysis and data-driven solutions.
 
 I’m passionate about building innovative solutions, contributing to open-source projects, and collaborating on cutting-edge technologies.
 
