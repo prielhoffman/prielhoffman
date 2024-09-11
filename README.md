@@ -2,11 +2,10 @@
 
 **`Communication Systems Engineer`**
 
-Hi, I’m Priel, a Communication Systems Engineering graduate from Ben-Gurion University with a strong technical background in programming, software development, and signal processing. My experience includes hands-on work with Python, C, C++, and MATLAB, where I’ve developed and implemented algorithms for real-world applications, including signal processing, RF systems, and parallel computing.
+Hi, I’m Priel, a Communication Systems Engineering graduate from Ben-Gurion University with a strong technical background in programming and software development. My experience includes hands-on work with Python, C, C++, and MATLAB, where I’ve developed and implemented algorithms for real-world applications, including signal processing, RF systems, and parallel computing.
 
 Key skills:
 - Software Development: Proficient in Python, C, C++.
-- Signal Processing & RF Systems: Hands-on expertise in MATLAB, radar systems engineering, and receiver design.
 - Parallel Computing: Experienced with OpenMP, MPI, and Monte Carlo simulations for high-performance applications.
 
 I’m passionate about building innovative solutions, contributing to open-source projects, and collaborating on cutting-edge technologies.
