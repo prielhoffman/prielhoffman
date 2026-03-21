@@ -1,22 +1,28 @@
-## Priel Hoffman ☺️
+# Hi, I'm Priel Hoffman
 
-**`Communication Systems Engineer`**
+Software Engineer with a B.Sc. in Communication Systems Engineering from Ben-Gurion University.
 
-Hi, I’m Priel, a Communication Systems Engineering graduate from Ben-Gurion University with a strong technical background in programming and software development. My experience includes hands-on work with Python, C, and C++, where I’ve developed and implemented algorithms for real-world applications, including machine learning and parallel computing.
+I build backend and full-stack projects with **Python, FastAPI, React, PostgreSQL, Docker, and CI/CD**.  
+My background also includes **C/C++**, networking, simulations, and machine learning.
 
-Key skills:
-- Software Development: Proficient in Python, C, C++.
-- Parallel Computing: Experienced with OpenMP, MPI, and Monte Carlo simulations for high-performance applications.
-- Machine Learning: Knowledgeable in machine learning techniques, including model training, optimization, and applying ML algorithms for predictive analysis and data-driven solutions.
+## What I'm working on
+- Building real projects with a strong focus on backend and full-stack development
+- Improving software engineering skills through hands-on projects in web, systems, and algorithms
+- Showcasing practical work in APIs, databases, authentication, networking, and simulations
 
-I’m passionate about building innovative solutions, contributing to open-source projects, and collaborating on cutting-edge technologies.
+## Featured projects
+- **MoodFlix** – Full-stack recommendation platform with FastAPI, React, PostgreSQL, pgvector, JWT auth, and Docker
+- **Multicast Internet Radio System** – Client-server networking project in C using TCP, UDP multicast, and a custom protocol
+- **MPI N-Body Simulation** – Parallel simulation in C with MPI, focused on distributed computation and performance analysis
+- **Arduino CSMA/CD Protocol** – Embedded communication project implementing collision detection and exponential backoff
 
-### Languages and Tools:
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="Interlji" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+## Tech stack
+**Languages:** Python, C, C++, JavaScript  
+**Backend:** FastAPI, REST APIs, SQLAlchemy  
+**Frontend:** React  
+**Databases:** PostgreSQL  
+**Tools:** Docker, Git, GitHub Actions, Linux
+
+## Contact
+- **Email:** [your-email-url](priel.hoffman@gmail.com)
+- **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/priel-hoffman/)
