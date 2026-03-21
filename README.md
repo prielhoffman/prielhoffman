@@ -5,12 +5,12 @@ Software Engineer with a B.Sc. in Communication Systems Engineering from Ben-Gur
 I build backend and full-stack projects with **Python, FastAPI, React, PostgreSQL, Docker, and CI/CD**.  
 My background also includes **C/C++**, networking, simulations, and machine learning.
 
-## What I'm working on
-- Building real projects with a strong focus on backend and full-stack development
-- Improving software engineering skills through hands-on projects in web, systems, and algorithms
-- Showcasing practical work in APIs, databases, authentication, networking, and simulations
+## What I'm focused on
+- Backend and full-stack development
+- Building practical projects with APIs, databases, authentication, and clean architecture
+- Strengthening software engineering skills through hands-on systems, networking, and simulation projects
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+## ⚒️ Languages • Frameworks • Tools ⚒️
 
 <p align="left">
   <a href="https://skillicons.dev">
