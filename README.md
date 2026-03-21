@@ -18,13 +18,6 @@ My background also includes **C/C++**, networking, simulations, and machine lear
   </a>
 </p>
 
-## Tech stack
-**Languages:** Python, C, C++, JavaScript  
-**Backend:** FastAPI, REST APIs, SQLAlchemy  
-**Frontend:** React  
-**Databases:** PostgreSQL  
-**Tools:** Docker, Git, GitHub Actions, Linux
-
 ## Contact
 - **Email:** [priel.hoffman@gmail.com](priel.hoffman@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/priel-hoffman/](https://www.linkedin.com/in/priel-hoffman/)
