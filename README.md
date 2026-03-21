@@ -10,11 +10,13 @@ My background also includes **C/C++**, networking, simulations, and machine lear
 - Improving software engineering skills through hands-on projects in web, systems, and algorithms
 - Showcasing practical work in APIs, databases, authentication, networking, and simulations
 
-## Featured projects
-- **MoodFlix** – Full-stack recommendation platform with FastAPI, React, PostgreSQL, pgvector, JWT auth, and Docker
-- **Multicast Internet Radio System** – Client-server networking project in C using TCP, UDP multicast, and a custom protocol
-- **MPI N-Body Simulation** – Parallel simulation in C with MPI, focused on distributed computation and performance analysis
-- **Arduino CSMA/CD Protocol** – Embedded communication project implementing collision detection and exponential backoff
+## ⚒️ Languages-Frameworks-Tools ⚒️
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,js,postgres,docker,git,githubactions,linux,c,cpp,pycharm,idea,matlab,arduino,pytorch&perline=8" />
+  </a>
+</p>
 
 ## Tech stack
 **Languages:** Python, C, C++, JavaScript  
