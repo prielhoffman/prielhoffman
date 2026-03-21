@@ -24,5 +24,5 @@ My background also includes **C/C++**, networking, simulations, and machine lear
 **Tools:** Docker, Git, GitHub Actions, Linux
 
 ## Contact
-- **Email:** [your-email-url](priel.hoffman@gmail.com)
-- **LinkedIn:** [your-linkedin-url](https://www.linkedin.com/in/priel-hoffman/)
+- **Email:** [priel.hoffman@gmail.com](priel.hoffman@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/priel-hoffman/](https://www.linkedin.com/in/priel-hoffman/)
