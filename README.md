@@ -1,9 +1,5 @@
 # Hi there, I'm Priel Hoffman! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prielhoffman/prielhoffman/main/banner.png" alt="Embedded Firmware Banner" width="100%">
-</p>
-
 ### About Me
 I am a **Communication Systems Engineering graduate (B.Sc.)** from Ben-Gurion University, **focused on the hardware-software interface**. I specialize in writing efficient C/C++ code tailored to real-world constraints like timing, memory, and hardware peripherals.
 
