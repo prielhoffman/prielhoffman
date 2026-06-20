@@ -1,23 +1,25 @@
 # Hi, I'm Priel Hoffman
 
-Software Engineer with a B.Sc. in Communication Systems Engineering from Ben-Gurion University.
+Communication Systems Engineering graduate from Ben-Gurion University, focused on **Embedded Systems** and **Firmware Engineering**.
 
-I build backend and full-stack projects with **Python, FastAPI, React, PostgreSQL, Docker, and CI/CD**.  
-My background also includes **C/C++**, networking, simulations, and machine learning.
+I enjoy working close to the hardware: writing C/C++ code that interacts with microcontrollers, peripherals, communication protocols, timing constraints, and real-world system behavior.
 
 ## What I'm focused on
-- Backend and full-stack development
-- Building practical projects with APIs, databases, authentication, and clean architecture
-- Strengthening software engineering skills through hands-on systems, networking, and simulation projects
 
-## ⚒️ Languages • Frameworks • Tools ⚒️
+* Embedded C/C++ and bare-metal firmware development
+* STM32 and ARM Cortex-M microcontrollers
+* Custom peripheral drivers: GPIO, ADC, UART, I2C, SPI
+* Interrupt-driven programming, state machines, and HW/SW debugging
+* Low-level software, operating systems, communication protocols, and real-time embedded systems
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,js,postgres,docker,git,githubactions,linux,c,cpp,pycharm,idea,matlab,arduino,pytorch&perline=8" />
-  </a>
-</p>
+## Tech Stack
+
+**Languages:** C, C++, Python, MATLAB, Bash
+**Embedded:** STM32, ARM Cortex-M, Embedded C, bare-metal firmware, RTOS 
+**Peripherals & Protocols:** UART, I2C, SPI, CAN, ADC, timers, PWM, RTC
+**Tools:** STM32CubeIDE, Git, Linux, ST-LINK/SWD debugging, logic analyzer, multimeter, Wireshark
 
 ## Contact
-- **Email:** [priel.hoffman@gmail.com](priel.hoffman@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/priel-hoffman/](https://www.linkedin.com/in/priel-hoffman/)
+
+* Email: [priel.hoffman@gmail.com](mailto:priel.hoffman@gmail.com)
+* LinkedIn: [linkedin.com/in/priel-hoffman](https://www.linkedin.com/in/priel-hoffman/)
