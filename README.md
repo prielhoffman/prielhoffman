@@ -25,9 +25,11 @@ I am a **Communication Systems Engineering graduate (B.Sc.)** from Ben-Gurion Un
 
 ### Featured Project
 #### [Smart Plant Care Monitor](https://github.com/prielhoffman/STM32_Smart_Plant_Monitor/tree/main)
-Developed bare-metal firmware for an STM32G071-based plant monitoring system using custom GPIO, ADC, I2C, and USART drivers to collect data from real hardware sensors.
-* Features a state-machine application flow, multi-page I2C LCD, and real-time UART debugging logs.
-* Implemented timestamped data logging via RTC module and MicroSD card CSV storage.
+Built a bare-metal STM32G071 plant monitoring system using custom peripheral drivers to interface with real sensors, display live plant status, and log timestamped measurements.
+* Implemented custom GPIO, ADC, I2C, SPI and USART drivers for hardware integration with analog sensors, I2C modules, an LCD display and a MicroSD card.
+* Developed a state-machine-based firmware application that processes calibrated soil moisture, light, temperature and humidity readings to determine real-time plant status.
+* Added a multi-page LCD UI, onboard button control, status LEDs, UART debug logs and timestamped CSV data logging for demo validation and offline analysis.
+
 
 ---
 
